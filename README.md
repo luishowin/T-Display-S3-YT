@@ -1,10 +1,5 @@
 # T-Display-S3-YT
 ---
-Do you like my videos? Please consider buying me a ☕ :
-https://www.buymeacoffee.com/nishad2m8
-
-[![alt text](<00-Assets/buy me coffee.gif>)](https://www.buymeacoffee.com/nishad2m8)
-
 ---
 
 | No.  | Thumb | Youtube URL |
